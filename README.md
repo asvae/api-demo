@@ -1,6 +1,6 @@
 # Project structure
 
-### plugin.js
+### installer.js
 Import it. By doing so, api-demo will be installed as global vue plugin.
 
 ### instances
