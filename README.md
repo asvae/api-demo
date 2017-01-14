@@ -10,6 +10,8 @@ Example instances folder. Edit em, do your own configs. You can also use these i
 ### src
 Sources. Dark magic. Don't go alone.
 
+---------------------
+
 Here's some usage example from the component:
 
 ```
