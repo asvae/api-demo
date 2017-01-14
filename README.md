@@ -14,7 +14,7 @@ Sources. Dark magic. Don't go alone.
 
 Here's some usage example from the component:
 
-```
+``` js
 // From component scope.
 this.$api_demo_3.post('posts/get-many', {filters})
     .then(({data, meta}) => {
